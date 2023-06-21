@@ -51,7 +51,7 @@ body {
 
 .button-cta:hover {
     transform: scale(1.2);
-    background-color: #aaa);
+    background-color: #aaa;
     color: #000;
     border: 1px solid #fff;
 }
