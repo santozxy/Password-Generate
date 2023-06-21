@@ -50,10 +50,10 @@ body {
 }
 
 .button-cta:hover {
-    transform: scale(1.2);
-    background-color: #aaa;
-    color: #000;
-    border: 1px solid #fff;
+    transform: scale(1.05);
+    background-color: #ccc;
+    color: rgb(87, 9, 136);
+    border: 2px solid rgb(87, 9, 136);;
 }
 
 .container-password {
