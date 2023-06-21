@@ -5,4 +5,4 @@
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### Inspiração: [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
+#### Inspiração: [Sujeito Programador](https://www.youtube.com/@Sujeitoprogramador)
