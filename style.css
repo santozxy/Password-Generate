@@ -7,8 +7,7 @@
 }
 
 body {
-    background-color: #181818;
-    width: 100%;
+    background-image: linear-gradient(rgb(87, 9, 136), rgb(26, 13, 79), rgb(4, 4, 31));    width: 100%;
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -35,13 +34,12 @@ body {
     border-radius: 5px;
     background: #dfdfdf;
     height: 18px;
-    outline: none;
     margin-top: 20px;
 }
 
 .button-cta {
     height: 40px;
-    background-color: rgb(53, 182, 36);
+    background-color: rgb(87, 9, 136);
     border: 0;
     border-radius: 4px;
     cursor: pointer;
