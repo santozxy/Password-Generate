@@ -49,6 +49,13 @@ body {
     font-size: 18px;
 }
 
+.button-cta:hover {
+    transform: scale(1.2);
+    background-color: #aaa);
+    color: #000;
+    border: 1px solid #fff;
+}
+
 .container-password {
     max-width: 480px;
     margin: 14px 0;
